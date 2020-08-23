@@ -23,11 +23,12 @@ layout: page
 Stony Brook University, Stony Brook, NY, USA<br>
 Advisor: Prof. Lori Repetti<br>
 
-<b>M.A. in English Linguistics</b>
+<b>M.A. in English Linguistics</b><br>
 Seoul National University, Seoul, Korea<br>
-Advisor: Prof. Jae-Young Lee<br><br>
-<b>B.A. in English Literature & Linguistics</b>
-<b>B.A. in Political Science (Double major)</b>
+Advisor: Prof. Jae-Young Lee<br>
+
+<b>B.A. in English Literature & Linguistics</b> (Summa Cum Laude)<br>
+<b>B.A. in Political Science</b> (Double major)<br>
 Sogang University, Seoul, Korea
 
 <ul>
