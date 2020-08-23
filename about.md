@@ -30,9 +30,3 @@ Advisor: Prof. Jae-Young Lee<br>
 <b>B.A. in English Literature & Linguistics</b> (Summa Cum Laude)<br>
 <b>B.A. in Political Science</b> (Double major)<br>
 Sogang University, Seoul, Korea
-
-#<ul>
-#	<li><a href="https://github.com/">Lorem Lorem</a></li>
-#	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-#	<li><a href="https://github.com/">Dolor Lorem</a></li>
-#</ul>
