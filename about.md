@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, a Ph.D. candidate in Linguistics at Stony Brook University. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
+<p>Hi, I am a Ph.D. candidate in Linguistics at Stony Brook University. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
 
 <p>I am doing research on phonology and morphology.</p>
 
@@ -31,17 +31,8 @@ Advisor: Prof. Jae-Young Lee<br>
 <b>B.A. in Political Science</b> (Double major)<br>
 Sogang University, Seoul, Korea
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-	<li><b>(present) Ph.D. candidate in Linguistics<li>
-	<li>Stony Brook University, Stony Brook, NY, USA</b></li>
-	<li> Advisor: Prof. Lori Repetti<li><br>
-	<li><b>M.A. in English Linguistics</b><li>
-	<li>Seoul National University, Seoul, Korea</li>
-	<li>Advisor: Prof. Jae-Young Lee, Committee: Prof. Chang Yong Sohn, Prof. Heok-Seung Kwon<li><br>
-	<li><b>B.A. in English Literature & Linguistics</b><li>
-	<li><b>B.A. in Political Science (Double major)</b>li>
-	<li>Sogang University, Seoul, Korea
-</ul>
+#<ul>
+#	<li><a href="https://github.com/">Lorem Lorem</a></li>
+#	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+#	<li><a href="https://github.com/">Dolor Lorem</a></li>
+#</ul>
