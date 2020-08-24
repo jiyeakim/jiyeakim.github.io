@@ -8,6 +8,9 @@ layout: page
 
 <!---<p>I am doing research on phonology and morphology.</p>-->
 
+<h2>Research interests</h2>
+Phonology, morphology, morpho-phonology, epenthesis, typology, variation, productivity, suffixation, phonetics, perception and production, loanword phonology, first and second language acquisition, prosody
+
 <h2>Awards</h2>
 
 <b>2020 Madeline Fusco Fellowship</b> (for dissertation completion)<br>
