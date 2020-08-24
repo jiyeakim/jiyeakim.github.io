@@ -4,20 +4,20 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I am Ji Yea Kim, a Ph.D. candidate in Linguistics at Stony Brook University. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
+<p>Hi, I am Ji Yea Kim, a Ph.D. candidate <a href="https://linguistics.stonybrook.edu/">in Linguistics at Stony Brook University</a>. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
 
 <p>I am doing research on phonology and morphology.</p>
 
 <h2>Awards</h2>
 
-<b>Madeline Fusco Fellowship</b> (for dissertation completion)<br>
-Stony Brook University, 2020.<br><br>
-<b>Graduate Scholarship in Korean Studies</b><br>
-Center for Korean Studies, Stony Brook University, 2020, 2018, 201.7<br><br>
-<b>Korean Honor Scholarship</b><br>
-Embassy of the Republic of Korea in the USA, 2018.<br><br>
-<b>Fulbright Graduate Study Fellowship</b><br>
-U.S. Department of State, 2014-2017. <br>
+<b>2020 Madeline Fusco Fellowship</b> (for dissertation completion)<br>
+Stony Brook University<br><br>
+<b>2020, 2018, 2017 Graduate Scholarship in Korean Studies</b><br>
+Center for Korean Studies, Stony Brook University<br><br>
+<b>2018 Korean Honor Scholarship</b><br>
+Embassy of the Republic of Korea in the USA<br><br>
+<b>2014-2017 Fulbright Graduate Study Fellowship</b><br>
+U.S. Department of State<br>
 
 
 <h2>Education</h2>
