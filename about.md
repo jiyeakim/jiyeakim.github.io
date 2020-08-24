@@ -30,6 +30,6 @@ Advisor: Prof. Lori Repetti<br>
 Seoul National University, Seoul, Korea<br>
 Advisor: Prof. Jae-Young Lee<br>
 
-<b>B.A. in English Literature & Linguistics</b> (<i>Summa Cum Laude</i>)<br>
+<b>B.A. in English Literature & Linguistics</b> (<i>Magna Cum Laude</i>)<br>
 <b>B.A. in Political Science</b> (Double major)<br>
 Sogang University, Seoul, Korea
