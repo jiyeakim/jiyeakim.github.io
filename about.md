@@ -15,12 +15,12 @@ layout: page
 <b>2020, 2018, 2017 Graduate Scholarship in Korean Studies</b>, Center for Korean Studies, Stony Brook University<br>
 <b>2014-2017 Fulbright Graduate Study Fellowship</b>, U.S. Department of State<br>
 
-<ul class="award-list">
+<!--<ul class="award-list">
 	<li><b>2020 Madeline Fusco Fellowship</b> (for dissertation completion), Stony Brook University</li>
 	<li><b>2018 Korean Honor Scholarship</b>, Embassy of the Republic of Korea in the USA</li>
 	<li><b>2020, 2018, 2017 Graduate Scholarship in Korean Studies</b>, Center for Korean Studies, Stony Brook University</li>
 	<li><b>2014-2017 Fulbright Graduate Study Fellowship</b>, U.S. Department of State</li>
-</ul>
+<!--</ul>
 
 <h2>Education</h2>
 
