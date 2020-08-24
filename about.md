@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I am a Ph.D. candidate in Linguistics at Stony Brook University. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
+<p>Hi, I am Ji Yea Kim, a Ph.D. candidate in Linguistics at Stony Brook University. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
 
 <p>I am doing research on phonology and morphology.</p>
 
