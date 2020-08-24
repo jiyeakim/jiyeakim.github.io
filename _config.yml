@@ -13,7 +13,7 @@ picture: assets/images/kim.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://jiyeakim.github.io
@@ -41,7 +41,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-#github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -96,7 +96,7 @@ show-tags: false # JY: this was originally true.
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+#post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
@@ -123,7 +123,7 @@ plugins:
   - jekyll-paginate-v2
 
 jekyll-mentions:
-  base_url: https://github.com
+  base_url: ""
 
 compress_html:
   ignore:
