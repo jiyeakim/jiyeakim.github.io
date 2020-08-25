@@ -13,7 +13,7 @@ Phonology, morphology, morpho-phonology, epenthesis, typology, variation, produc
 
 <h2>Awards</h2>
 
-<b>2020 Madeline Fusco Fellowship</b> (for dissertation completion)<br>
+<b>2020 Madeline Fusco Doctoral Dissertation Fellowship</b><br>
 Graduate School, Stony Brook University<br><br>
 <b>2020, 2018, 2017 Graduate Scholarship in Korean Studies</b><br>
 Center for Korean Studies, Stony Brook University<br><br>
