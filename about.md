@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I am Ji Yea Kim. I am a Ph.D. candidate in <a href="https://linguistics.stonybrook.edu/">the Department of Linguistics</a> at Stony Brook University. My research interests focus mostly on phonology, morphology, and their interface. I am a member of the Epenthesis Research Group led by my advisor Professor Lori Repetti. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
+<p>I am Ji Yea Kim. I am a Ph.D. candidate in <a href="https://linguistics.stonybrook.edu/">the Department of Linguistics</a> at Stony Brook University. My research interests focus mostly on phonology, morphology, and their interface. I am a member of the Epenthesis Research Group, which is led by my advisor Professor Lori Repetti. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
 
 <!---<p>I am doing research on phonology and morphology.</p>-->
 
@@ -19,7 +19,7 @@ Graduate School, Stony Brook University<br><br>
 Center for Korean Studies, Stony Brook University<br><br>
 <b>2018 Korean Honor Scholarship</b><br>
 Embassy of the Republic of Korea in the USA<br><br>
-<b>2014-2017 Fulbright Graduate Study Fellowship</b><br>
+<b>2014-2015, 2016-2017 Fulbright Graduate Study Fellowship</b><br>
 U.S. Department of State<br>
 
 
