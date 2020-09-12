@@ -55,7 +55,7 @@ email: jiyea.kim@stonybrook.edu
 authors:
   johndoe:
     name: Ji Yea Kim
-    bio: Ph.D. Candidate in Linguistics at Stony Brook University
+    bio: Ph.D. Candidate in Linguistics<br>Stony Brook University<br/>
     external-image: false
     picture: assets/images/kim.jpg
     #twitter: johndoe
