@@ -6,7 +6,7 @@ layout: page
 
 <h2><center>Ji Yea Kim</center></h2>
 
-<p>I am a Ph.D. candidate in <a href="https://linguistics.stonybrook.edu/">the Department of Linguistics</a> at Stony Brook University. My research interests focus mostly on phonology, morphology, and their interface. I am a member of the Epenthesis Research Group, which is led by my advisor Professor Lori Repetti. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
+<p>I am a Ph.D. candidate in <a href="https://linguistics.stonybrook.edu/">the Department of Linguistics</a> at Stony Brook University. My research interests focus mostly on phonology, morphology, and their interface. I am a member of the Epenthesis Research Group, which is led by Professor Lori Repetti. I am currently working on my dissertation on morpho-phonological epenthesis.</p>
 
 <!---<p>I am doing research on phonology and morphology.</p>-->
 
@@ -27,7 +27,7 @@ U.S. Department of State<br>
 
 <h2>Education</h2>
 
-<b>(present) Ph.D. Candidate in Linguistics</b><br>
+<b>Ph.D. in Linguistics (in progress)</b><br>
 Stony Brook University, Stony Brook, NY, USA<br>
 Advisor: Prof. Lori Repetti<br>
 
